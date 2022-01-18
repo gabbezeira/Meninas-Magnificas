@@ -187,6 +187,11 @@ body {
   transition: all 0.5s;
 }
 
+.header .container .text-container .button a {
+  color: var(--font-label);
+  text-decoration: none;
+}
+
 .header .container .img-container {
   display: -webkit-box;
   display: -ms-flexbox;
