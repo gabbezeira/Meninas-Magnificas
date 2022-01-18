@@ -1149,7 +1149,7 @@ footer .container .text-footer .auth a {
     width: 80%;
     margin-left: 0%;
     float: none;
-    margin-bottom: -150px;
+    margin-bottom: -160px;
   }
   .header .container .text-container h1 {
     color: var(--primary-title-color);
@@ -1159,7 +1159,7 @@ footer .container .text-footer .auth a {
     margin-bottom: 25px;
   }
   .header .container .text-container p {
-    font-size: 18px;
+    font-size: 20px;
     color: var(--primary-font-color);
     font-weight: 300;
     margin-bottom: 60px;
