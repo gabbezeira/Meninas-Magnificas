@@ -284,7 +284,7 @@ body {
   width: 100%;
   padding: 80px 0;
   background-image: url(../img/pattern.png);
-  margin-bottom: -100px !important;
+  margin-bottom: -50px !important;
   margin: 0 auto;
 }
 
@@ -305,6 +305,7 @@ body {
 .ocurso .wrapper iframe {
   width: 100%;
   height: 650px;
+  z-index: 10;
 }
 
 .beneficios {
@@ -1240,7 +1241,7 @@ footer .container .text-footer .auth a {
     padding-left: 0px;
   }
   .ocurso .wrapper iframe {
-    height: 177px;
+    height: 250px;
   }
   .depoimentos .testim .cont div p {
     font-size: 16px;
