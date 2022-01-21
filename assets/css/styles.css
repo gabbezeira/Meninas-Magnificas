@@ -190,6 +190,7 @@ body {
 .header .container .text-container .button a {
   color: var(--font-label);
   text-decoration: none;
+  padding: 20px 45px;
 }
 
 .header .container .img-container {
@@ -947,6 +948,12 @@ body {
           transform: scale(1.1);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+}
+
+.participar .container .text-container .button a {
+  text-decoration: none;
+  color: var(--font-label);
+  padding: 20px 80px;
 }
 
 .contato {
