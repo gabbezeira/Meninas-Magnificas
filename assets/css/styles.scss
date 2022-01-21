@@ -1156,7 +1156,7 @@ html{
                 margin-bottom: 60px;
             }
 
-            button{
+            .button{
                 width: 230px;
                 height: 60px;
                 
@@ -1173,12 +1173,6 @@ html{
                 &:hover {
                     transform: scale(1.1);
                     transition: all 0.5s;
-                }
-
-                a {
-                    color: var(--font-label);
-                    text-decoration: none;
-                    padding: 20px 45px;
                 }
             }
         }

@@ -928,7 +928,7 @@ body {
   margin-bottom: 60px;
 }
 
-.participar .container .text-container button {
+.participar .container .text-container .button {
   width: 230px;
   height: 60px;
   border: none;
@@ -941,17 +941,11 @@ body {
           box-shadow: 0px 2px 5px rgba(197, 64, 131, 0.24);
 }
 
-.participar .container .text-container button:hover {
+.participar .container .text-container .button:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-}
-
-.participar .container .text-container button a {
-  color: var(--font-label);
-  text-decoration: none;
-  padding: 20px 45px;
 }
 
 .contato {
