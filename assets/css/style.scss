@@ -270,7 +270,7 @@ html{
     width: 100%;
     padding: 80px 0;
     background-image: url(../img/pattern.png);
-    margin-bottom: -50px;
+    margin-bottom: -100px !important;
     margin: 0 auto;
 
     .wrapper {
@@ -1460,6 +1460,15 @@ transform: translate3d(0px, 0px, 0px);
             }
         }
     }
+
+    .ocurso{
+        .wrapper {
+            iframe {
+                height: 177px;
+            }
+        }
+    }
+    
 
     .depoimentos{
         .testim .cont div p{
