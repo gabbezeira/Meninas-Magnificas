@@ -934,8 +934,6 @@ body {
   border: none;
   border-radius: 8px;
   background-image: var(--gradient-color);
-  font-size: 18px;
-  color: var(--font-label);
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
   cursor: pointer;
@@ -943,17 +941,18 @@ body {
           box-shadow: 0px 2px 5px rgba(197, 64, 131, 0.24);
 }
 
+.participar .container .text-container .button .a-style {
+  font-size: 18px !important;
+  text-decoration: none !important;
+  color: var(--font-label) !important;
+  padding: 20px 80px !important;
+}
+
 .participar .container .text-container .button:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-}
-
-.participar .container .text-container .button a {
-  text-decoration: none;
-  color: var(--font-label);
-  padding: 20px 80px;
 }
 
 .contato {
