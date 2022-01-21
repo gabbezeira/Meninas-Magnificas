@@ -171,11 +171,8 @@ body {
   border: none;
   border-radius: 8px;
   background-image: var(--gradient-color);
-  font-size: 18px;
-  color: var(--font-label);
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  cursor: pointer;
   -webkit-box-shadow: 0px 10px 20px rgba(197, 64, 131, 0.24);
           box-shadow: 0px 10px 20px rgba(197, 64, 131, 0.24);
 }
@@ -188,9 +185,11 @@ body {
 }
 
 .header .container .text-container .button a {
-  color: var(--font-label);
-  text-decoration: none;
-  padding: 20px 45px;
+  text-decoration: none !important;
+  color: white !important;
+  font-size: 18px !important;
+  padding: 20px 45px !important;
+  cursor: pointer;
 }
 
 .header .container .img-container {
@@ -958,7 +957,6 @@ body {
   background-image: var(--gradient-color);
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  cursor: pointer;
   -webkit-box-shadow: 0px 2px 5px rgba(197, 64, 131, 0.24);
           box-shadow: 0px 2px 5px rgba(197, 64, 131, 0.24);
 }
@@ -968,6 +966,14 @@ body {
           transform: scale(1.1);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+}
+
+.participar .container .text-container .button a {
+  text-decoration: none !important;
+  color: white !important;
+  font-size: 18px !important;
+  padding: 20px 80px !important;
+  cursor: pointer;
 }
 
 .contato {
@@ -1278,4 +1284,4 @@ footer .container .text-footer .auth a {
     width: 800px;
   }
 }
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=style.css.map */
