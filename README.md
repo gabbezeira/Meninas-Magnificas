@@ -9,7 +9,6 @@ Projeto realizado para captação de leds para o curso meninas magníficas.
 - One Page Responsiva
 
 
-
 ## Feito Com:
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.microsoft.com/pt-br/windows/get-windows-10)
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
