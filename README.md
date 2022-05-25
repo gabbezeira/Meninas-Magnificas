@@ -1,6 +1,6 @@
 <img src="image-readme.png" alt="exemplo imagem">
 
-# Meninas Magníficas
+# Meninas Magníficas 🚀
 
 Projeto realizado para captação de leds para o curso meninas magníficas.
 
