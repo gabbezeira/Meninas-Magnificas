@@ -2,7 +2,7 @@
 
 # Meninas Magníficas 🚀
 
-Projeto realizado para captação de leds para o curso meninas magníficas.
+Projeto realizado para captação de leds para o curso meninas magníficas. (https://eusoumagnifica.com)
 
 ## Tipo de Projeto
 
